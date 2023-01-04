@@ -4,7 +4,7 @@ OBJ=./obj
 LIB=./lib
 INCLUDE=./include
 
-all: vector.o jsonp.o gifenc.o
+all: vector.o gifenc.o jsonp.o 
 
 vector.o: $(LIB)/vector.c
 	$(CC) -c $(LIB)/vector.c -o $(OBJ)/vector.o -I$(INCLUDE)
