@@ -1,2 +1,2 @@
-# RAT(Rendering Algorithms Techniques) implemented in C
+# RAT(Rendering Algorithms and Techniques) implemented in C
 
